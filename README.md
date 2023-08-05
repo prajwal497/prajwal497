@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwal497&label=Profile%20views&color=0e75b6&style=flat" alt="prajwal497" /> </p>
 
-- 🌱 I’m currently learning **Microservices architecture with opa**
+- 🌱 I’m currently learning **Microservices architecture with OPA**
 
 - 💬 Ask me about **nodejs,expressjs,feathersjs,MongoDB**
 
